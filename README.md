@@ -1,3 +1,8 @@
+# Subhojits point to install the application 
+# copy Repository
+# go to the repository typenpm install and follow the below process
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
